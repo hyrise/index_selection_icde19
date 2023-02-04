@@ -1,3 +1,5 @@
+## Efficient Scalable Multi-attribute Index Selection Using Recursive Strategies
+
 This repository has been superseded by the publication **"Magic mirror in my hand, which is the best in the land? An Experimental Evaluation of Index Selection Algorithms"** by Kossmann et al (PVLDB 2020).
 
 The evaluation platform can be found [here](https://github.com/hyrise/index_selection_evaluation) and contains an implementation of the **Extend** index selection algorithm of the ICDE 2019 publication.
